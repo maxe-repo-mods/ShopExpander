@@ -10,7 +10,7 @@ public class Plugin : BaseUnityPlugin
 {
     private const string PluginGuid = "maxenterme.ShopExpander";
     private const string PluginName = "ShopExpander";
-    private const string PluginVersion = "1.1.0";
+    private const string PluginVersion = "1.1.1";
 
     internal static Plugin Instance { get; private set; } = null!;
     internal new static ManualLogSource Logger => Instance._logger;
