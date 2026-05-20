@@ -1,6 +1,6 @@
 {
   "name": "ShopExpander",
-  "version_number": "1.1.1",
+  "version_number": "1.1.2",
   "website_url": "https://github.com/maxe-repo-mods/ShopExpander",
   "description": "Expands shop item variety. Configure max items per category and price multipliers.",
   "dependencies": [
